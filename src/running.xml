@@ -1,0 +1,133 @@
+<runners>
+	<runner name = "Kevin" >
+		<image>img/persn.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time>21.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>28.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>27</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>23.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>22.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>21.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>28.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>28.62</time>
+				<date>24/5/2009</date>
+			</run>
+			<run>
+				<length>3</length>
+				<time>28.62</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "Jim">
+		<image>img/jim.gif</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "Tom">
+		<image>img/run.gif</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/person.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/person.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/person.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/person.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/person.png</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+	<runner name = "John">
+		<image>img/jim.gif</image>
+		<data>
+			<run>
+				<length>3</length>
+				<time> 21.02</time>
+				<date>24/5/2009</date>
+			</run>
+		</data>
+	</runner>
+</runners>
+
